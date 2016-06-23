@@ -1,0 +1,62 @@
+
+.paint{
+    width: 50px;
+    height: 50px;
+    border:  1px black dashed;
+    background-color: white;
+    margin: 5px 5px;
+}
+
+.blue{
+   background-color: blue;
+}
+
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.erase {
+    background-color: white;
+    font-size: 10px;
+}
+
+.confirm {
+    background-color: white;
+    font-size: 10px;
+    color:deeppink;
+}
+
+.pixel{
+    width: 10px;
+    height: 10px;
+    border:  0.2px lightgrey solid;
+    background-color: white;
+
+}
+
+.canvas{
+    background-color: white;
+}
+
+.line {
+    display: inline-block;
+    border-botton:  1px black solid;
+
+}
+
+.text{
+    font-size: 15px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
